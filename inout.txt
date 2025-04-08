@@ -1,0 +1,103 @@
+Enter number of staff members (max 100): 3
+Enter number of children (max 100): 3
+
+Enter information for 3 staff member(s):
+
+Staff Member #1
+First and Last Name: Alice Johnson
+Year of Birth: 1980
+Gender: Female
+Job Title: Infant Teacher
+Weekly Hours: 45
+Wage Rate per Hour: 20.0
+Hiring Year: 2010
+
+Staff Member #2
+First and Last Name: Bob Smith
+Year of Birth: 1975
+Gender: Male
+Job Title: Toddler Teacher
+Weekly Hours: 40
+Wage Rate per Hour: 22.0
+Hiring Year: 2008
+
+Staff Member #3
+First and Last Name: Carol Davis
+Year of Birth: 1985
+Gender: Female
+Job Title: Preschool Teacher
+Weekly Hours: 38
+Wage Rate per Hour: 18.0
+Hiring Year: 2015
+
+Enter information for 3 child(ren):
+
+Child #1
+First and Last Name: Danny Young
+Year of Birth: 2020
+Gender: Male
+Parent's First and Last Name: Laura Young
+Parent's Phone Number: 123-456-7890
+Parent's First Language: English
+Allergies (Yes/No): No
+Number of Days Going to Daycare: 5
+Shift Choice (1=8am-12pm, 2=12pm-4pm, 3=8am-4pm): 1
+Drop Off Time: 8:00 AM
+Pick Up Time: 12:00 PM
+
+Child #2
+First and Last Name: Eva Green
+Year of Birth: 2019
+Gender: Female
+Parent's First and Last Name: Michael Green
+Parent's Phone Number: 234-567-8901
+Parent's First Language: Spanish
+Allergies (Yes/No): Yes
+Number of Days Going to Daycare: 3
+Shift Choice (1=8am-12pm, 2=12pm-4pm, 3=8am-4pm): 2
+Drop Off Time: 12:00 PM
+Pick Up Time: 4:00 PM
+
+Child #3
+First and Last Name: Frank Moore
+Year of Birth: 2018
+Gender: Male
+Parent's First and Last Name: Nancy Moore
+Parent's Phone Number: 345-678-9012
+Parent's First Language: English
+Allergies (Yes/No): No
+Number of Days Going to Daycare: 4
+Shift Choice (1=8am-12pm, 2=12pm-4pm, 3=8am-4pm): 3
+Drop Off Time: 7:30 AM
+Pick Up Time: 4:00 PM
+
+Enter ratings for staff (1-5) by each parent:
+Ratings by Parent #1 (for each staff member):
+Rating for Alice Johnson: 5
+Rating for Bob Smith: 4
+Rating for Carol Davis: 3
+
+Ratings by Parent #2 (for each staff member):
+Rating for Alice Johnson: 4
+Rating for Bob Smith: 5
+Rating for Carol Davis: 4
+
+Ratings by Parent #3 (for each staff member):
+Rating for Alice Johnson: 5
+Rating for Bob Smith: 4
+Rating for Carol Davis: 5
+
+Staff Members Sorted by Average Rating (Highest to Lowest):
+Alice Johnson - Average Rating: 4.67
+Bob Smith - Average Rating: 4.33
+Carol Davis - Average Rating: 4.00
+
+Staff Information with Salary Details:
+Alice Johnson has 14 years of experience, Weekly Pay: $950.00, Annual Salary: $49400.00, Net Income: $46930.00, Average Rating: 4.67
+Bob Smith has 16 years of experience, Weekly Pay: $880.00, Annual Salary: $45760.00, Net Income: $43532.00, Average Rating: 4.33
+Carol Davis has 9 years of experience, Weekly Pay: $684.00, Annual Salary: $35568.00, Net Income: $33789.60, Average Rating: 4.00
+
+Children Information and Weekly Bills:
+Child: Danny Young, Age: 4 (Preschool), Weekly Bill: $200.00
+Child: Eva Green, Age: 5 (Preschool), Weekly Bill: $150.00
+Child: Frank Moore, Age: 6 (Preschool), Weekly Bill: $320.00
